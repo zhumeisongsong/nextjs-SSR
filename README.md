@@ -2,9 +2,9 @@
 
 ## How to build a react app please reade:
 
-<a href="./architecture.md"></a>
+<a href="./architecture.md">React with typescript architecture</a>
 
-##JSON API
+## JSON API
 
 MAMP(local wordpress environment) + 
 
