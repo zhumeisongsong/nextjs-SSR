@@ -8,7 +8,7 @@
 
 MAMP(local wordpress environment) + 
 
-react(with typescript and created based on create-react-app)
+Next.js(with typescript)
 
 
 ### Where Can I See WordPress’s JSON Data?
