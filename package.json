@@ -1,7 +1,10 @@
 {
-    "scripts": {
-      "dev": "next",
-      "build": "next build",
-      "start": "next start"
-    }
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-typescript": "^1.1.1"
   }
+}

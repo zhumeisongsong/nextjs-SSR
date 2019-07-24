@@ -33,3 +33,4 @@ http://localhost:8888/react-wordpress/wp-json/wp/v2/posts
 
 ## Reffrences
 https://www.freecodecamp.org/news/wordpress-react-how-to-create-a-modern-web-app-using-wordpress-ef6cc6be0cd0/
+https://github.com/zeit/next-plugins/tree/master/packages/next-typescript
