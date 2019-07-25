@@ -1,7 +1,11 @@
-export default function About() {
+import Layout from "../components/MyLayout";
+
+const About = () => {
   return (
-    <div>
+    <Layout>
       <p>This is the about page</p>
-    </div>
+    </Layout>
   );
 }
+
+export default About;
