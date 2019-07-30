@@ -2,7 +2,6 @@ import Layout from "../components/MyLayout";
 import Link from 'next/link';
 import fetch from 'isomorphic-unfetch';
 
-
 const Index = (props: any) => (
   <Layout>
     <h1>Batman TV Shows</h1>
