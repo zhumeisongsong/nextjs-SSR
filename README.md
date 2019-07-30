@@ -1,4 +1,4 @@
-# React WordPress
+# Next WordPress
 
 ## How to build a react app please reade:
 
